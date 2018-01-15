@@ -18,4 +18,11 @@ function inc(a){
   a += 1;
 }
 
-function 
+function dec(a){
+  a -= 1;
+}
+
+function toInt(a){
+  return parseInt(a,10);
+}
+
