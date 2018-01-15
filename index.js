@@ -22,7 +22,8 @@ function dec(a){
   a -= 1;
 }
 
-function toInt(a){
+function makeInt(a){
   return parseInt(a,10);
 }
 
+function preserve
